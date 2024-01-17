@@ -1,0 +1,1 @@
+I am f1 text file. for implement path module in NodeJS
